@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Large Map | CSCI 315](project4)
 
-![project](images/displayy.pdf)
+![project](images/displayy.png)
 
 ---
 
