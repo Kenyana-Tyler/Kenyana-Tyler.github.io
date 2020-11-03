@@ -25,7 +25,7 @@ Fig 1. How the ships look.
 ![screenshot](images/battleship2.pdf)
 Fig 2. UML use case.
 
-![screenshot](images/directions.pdf)
+![screenshot](images/directions.jpg)
 Fig 3. Code for how to change direction of the ships.
 
 ## 3. Additional Considerations
