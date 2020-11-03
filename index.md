@@ -22,9 +22,9 @@ Programming Projects
 ![Ship](images/battleship.pdf)
 
 ---
-### [Project 4 Title | CSCI 301](project4)
+### [Large Map | CSCI 315](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![project](images/display.pdf)
 
 ---
 
