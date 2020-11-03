@@ -19,14 +19,14 @@ The program is ran through a site called apex.oracle.
 ## UI Design
  
 
-![screenshot](Picture1.jpg)
-Fig 1. The launch screen
+![screenshot](battleship.pdf)
+Fig 1. How the ships look.
 
-![screenshot](Picture2.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](battleship2.pdf)
+Fig 2. UML use case.
 
-![screenshot](Picture3.jpg)
-Fig 3. Diagram.
+![screenshot](directions.pdf)
+Fig 3. Code for how to change direction of the ships.
 
 ## 3. Additional Considerations
 
