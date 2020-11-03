@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [THERAC-25](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics2020%20csci315.docx?d=wc4c06903e9eb4d059bf18d7336155fe5&csf=1&web=1&e=aSjfRwpdf)
+### [Intellectual Property](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics%20paper%20applied%20networkin.docx?d=we13ace9f5c414fadaf3dcadc5f4c9279&csf=1&web=1&e=9EaHE5)
 
--   **Class: CSCI 315**  
+-   **Class: CSCI 332**  
 -   **Grade: A**
 
-### [](/pdf/sample_presentation.pdf)
+### [THERAC-25](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics2020%20csci315.docx?d=wc4c06903e9eb4d059bf18d7336155fe5&csf=1&web=1&e=aSjfRwpdf)
 
--   **Class: ** 
--   **Grade: **
+-   **Class: CSCI 315** 
+-   **Grade: A**
 
 ### [The Good Hacker](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/Assignment%206%20Ethics%20Paper%20Tyler.docx?d=w70232dcbfe52416890882ebf8aaf9994&csf=1&web=1&e=tJw5pipdf)
 
