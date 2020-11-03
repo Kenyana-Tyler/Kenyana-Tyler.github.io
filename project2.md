@@ -17,13 +17,13 @@ To run the program we used mozilla firefox and typed in our own personal link th
 
 ## UI Design
 
-![screenshot](myhomescreen.png)
+![screenshot](images/myhomescreen.png)
 Fig 1. The home screen.
 
-![screenshot](gallery.png)
+![screenshot](images/gallery.png)
 Fig 2. Different page.
 
-![screenshot](videos.png)
+![screenshot](images/videos.png)
 Fig 3. Different page.
 
 ## 3. Additional Considerations
