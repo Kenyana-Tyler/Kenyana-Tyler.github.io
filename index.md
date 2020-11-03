@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Target Credit Card Breach](https://csustudentnet-my.sharepoint.com/:p:/r/personal/kttyler_csustudent_net/Documents/project.pptx?d=w78c6bb54e77d4daf893c1ff0ae846a3d&csf=1&web=1&e=KorYof)
 
-- **Class:** 
-- **Grade:**
+- **Class:CSCI 301** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Why Christians Should Study Computer Science](https://csustudentnet-my.sharepoint.com/:p:/r/personal/kttyler_csustudent_net/Documents/intro%20to%20comp%20sci.pptx?d=wbdb91b75e5a64f8288167b49942ac77b&csf=1&web=1&e=qD1i21)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 210** 
+- **Grade: A**
 
 ---
 
