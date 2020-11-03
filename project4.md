@@ -14,10 +14,9 @@ For this project I had to map a student's first and last name to an id which mea
 
 ## How to compiles / run the program
 
-The program is ran through a site called apex.oracle. 
+The program is ran through the terminal on ubuntu. 
 
 ## UI Design
- Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. Figure 1 displays the home screen along with the side panel displaying what all is going to be given data. Figure 2 displays the back of house with given inventory along with different names and locations. Figure 3 displays the ERD diagram we used to make this app.
 
 ![screenshot](images/howmany.pdf)
 Fig 1. How many timing. 
@@ -25,12 +24,11 @@ Fig 1. How many timing.
 ![screenshot](images/search.pdf)
 Fig 2. Search timing.
 
-![screenshot](Picture3.jpg)
-Fig 3. Diagram.
+
 
 ## 3. Additional Considerations
 
-This project is something I feel as though companies can use to keep up with inventory as far as where it goes, how much they have, what they are receviing and what is outdated.  
+This project is something I wasn't too confident with due to not being so strong suited when it came to mapping things. Overall this was a pretty good and in depth project. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
