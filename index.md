@@ -12,9 +12,9 @@ Programming Projects
 ![Home Screen](Picture1.JPG)
 
 ---
-### [BattleShip | CSCI 332](project1)
+### [Final Website | CSCI 332](project1)
 
-![Project 2 Thumbnail Name]()
+![Project 2 Thumbnail Name](myhomescreen.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
