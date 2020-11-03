@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:kttyler@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [THERAC-25](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics2020%20csci315.docx?d=wc4c06903e9eb4d059bf18d7336155fe5&csf=1&web=1&e=aSjfRwpdf)
 
 -   **Class:**  
 -   **Grade:**
