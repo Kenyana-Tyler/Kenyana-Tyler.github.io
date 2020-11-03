@@ -24,7 +24,7 @@ Fig 1. How many timing.
 ![screenshot](images/search.pdf)
 Fig 2. Search timing.
 
-![screenshot](images/display.pdf)
+![screenshot](images/displayy.pdf)
 Fig 3. Project.
 
 
