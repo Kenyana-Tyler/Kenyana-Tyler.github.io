@@ -33,8 +33,8 @@ Ethics Papers
 
 ### [THERAC-25](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics2020%20csci315.docx?d=wc4c06903e9eb4d059bf18d7336155fe5&csf=1&web=1&e=aSjfRwpdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 315**  
+-   **Grade:A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
