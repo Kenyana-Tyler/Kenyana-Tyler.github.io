@@ -1,36 +1,34 @@
 [Back to Portfolio](./)
 
-Inventory Project
+Final Website
 ===============
 
--   **Class: CSCI 419** 
+-   **Class: CSCI 332** 
 -   **Grade: A**
--   **Language(s): SQL/PL**
+-   **Language(s): Html**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:kttyler@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-For this project my partner and I had to create a mobile app based on whatever we wanted it to be. We decided to do an Inventory app to keep up with the inventory for Nike since COVID-19 has started. Inventory was backed up due to the fact that the virus came around. This app will keep track of outdated inventory as well as new inventory along with the shipments coming in and going out. 
+For this project I had to created a website displaying the 5 different labs for the class, an about me page, a page of pictures, videos, and about my family. We used Ubuntu to make this and run the program. 
 
 ## How to compiles / run the program
-
-The program is ran through a site called apex.oracle. 
+To run the program we used mozilla firefox and typed in our own personal link that we had to pull up the website. 
 
 ## UI Design
- Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. Figure 1 displays the home screen along with the side panel displaying what all is going to be given data. Figure 2 displays the back of house with given inventory along with different names and locations. Figure 3 displays the ERD diagram we used to make this app.
 
-![screenshot](Picture1.jpg)
-Fig 1. The launch screen
+![screenshot](myhomescreen.png)
+Fig 1. The home screen.
 
-![screenshot](Picture2.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](gallery.png)
+Fig 2. Different page.
 
-![screenshot](Picture3.jpg)
-Fig 3. Diagram.
+![screenshot](videos.png)
+Fig 3. Different page.
 
 ## 3. Additional Considerations
 
-This project is something I feel as though companies can use to keep up with inventory as far as where it goes, how much they have, what they are receviing and what is outdated.  
+This project is a representation of everything I've learned throughout the class from adding music, to making different pages by coding it, as well as adding pictures and paragraphs.   
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
