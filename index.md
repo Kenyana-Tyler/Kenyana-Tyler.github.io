@@ -9,17 +9,17 @@ Programming Projects
 ---
 ### [Inventory Project | CSCI 419](project1)
 
-![Home Screen](Picture1.JPG)
+![Home Screen](images/Picture1.JPG)
 
 ---
 ### [Final Website | CSCI 332](project1)
 
-![Home page](myhomescreen.png)
+![Home page](images/myhomescreen.png)
 
 ---
 ### [Battleship | CSCI 325](project1)
 
-![Ship](battleship.pdf)
+![Ship](images/battleship.pdf)
 
 ---
 ### [Project 4 Title | CSCI 301](project1)
