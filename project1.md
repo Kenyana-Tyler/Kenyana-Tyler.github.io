@@ -19,13 +19,13 @@ The program is ran through a site called apex.oracle.
 ## UI Design
  Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. Figure 1 displays the home screen along with the side panel displaying what all is going to be given data. Figure 2 displays the back of house with given inventory along with different names and locations. Figure 3 displays the ERD diagram we used to make this app.
 
-![screenshot](Picture1.jpg)
+![screenshot](images/Picture1.jpg)
 Fig 1. The launch screen
 
-![screenshot](Picture2.jpg)
+![screenshot](images/Picture2.jpg)
 Fig 2. Example output after input is processed.
 
-![screenshot](Picture3.jpg)
+![screenshot](images/Picture3.jpg)
 Fig 3. Diagram.
 
 ## 3. Additional Considerations
