@@ -17,7 +17,7 @@ For this project my partner and I had to create a mobile app based on whatever w
 The program is ran through a site called apex.oracle. 
 
 ## UI Design
- Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. 
+ Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. Figure 1 displays the home screen along with the side panel displaying what all is going to be given data. 
 
 ![screenshot](Picture1.png)
 Fig 1. The launch screen
