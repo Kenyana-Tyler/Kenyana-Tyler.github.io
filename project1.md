@@ -14,18 +14,12 @@ For this project my partner and I had to create a mobile app based on whatever w
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+The program is ran through a site called apex.oracle. 
 
 ## UI Design
+ Pretty much we would add different amounts of inventory to the back of house, add employees, add shipments, so on and so forth. It would display as shown in the figures. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)
+![screenshot](Picture1.png)
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)
