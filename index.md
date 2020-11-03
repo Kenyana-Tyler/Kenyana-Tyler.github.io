@@ -12,17 +12,17 @@ Programming Projects
 ![Home Screen](images/Picture1.JPG)
 
 ---
-### [Final Website | CSCI 332](project1)
+### [Final Website | CSCI 332](project2)
 
 ![Home page](images/myhomescreen.png)
 
 ---
-### [Battleship | CSCI 325](project1)
+### [Battleship | CSCI 325](project3)
 
 ![Ship](images/battleship.pdf)
 
 ---
-### [Project 4 Title | CSCI 301](project1)
+### [Project 4 Title | CSCI 301](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
