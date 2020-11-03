@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Inventory Project | CSCI 419](project1)
 
-![Home Screen](Picture1.png)
+![Home Screen](picture1.png)
 
 ---
 ### [BattleShip | CSCI 332](project1)
