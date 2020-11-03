@@ -5,7 +5,7 @@ Inventory Project
 
 -   **Class: CSCI 325** 
 -   **Grade: B**
--   **Language(s): Java**
+-   **Language(s): Java, JavaScript**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:kttyler@csustudent.net?subject=GitHub%20Access) to request access.)
 
