@@ -1,16 +1,16 @@
 [Back to Portfolio](./)
 
-Inventory Project
+Large Map 
 ===============
 
--   **Class: CSCI 419** 
--   **Grade: A**
--   **Language(s): SQL/PL**
+-   **Class: CSCI 315** 
+-   **Grade: C**
+-   **Language(s): C++**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:kttyler@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
-For this project my partner and I had to create a mobile app based on whatever we wanted it to be. We decided to do an Inventory app to keep up with the inventory for Nike since COVID-19 has started. Inventory was backed up due to the fact that the virus came around. This app will keep track of outdated inventory as well as new inventory along with the shipments coming in and going out. 
+For this project I had to map a student's first and last name to an id which means in other words map a string to an integer. Each student's name will map to a single 32-bit integer. I will also have to display the performance search as well as the performance of how many. 
 
 ## How to compiles / run the program
 
