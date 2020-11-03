@@ -25,12 +25,12 @@ Fig 1. The launch screen
 ![screenshot](Picture2.png)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](Picture3.png)
+Fig 3. Diagram.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project is something I feel as though companies can use to keep up with inventory as far as where it goes, how much they have, what they are receviing and what is outdated.  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
