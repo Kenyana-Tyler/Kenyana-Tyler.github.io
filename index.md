@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 332**  
 -   **Grade: A**
 
-### [THERAC-25](ethics2020 csci315.docx)
+### [THERAC-25](https://csustudentnet-my.sharepoint.com/:w:/g/personal/kttyler_csustudent_net/EQNpwMTr6QVNm_GNczYVX-UBsaJUkRdrPxnkiLRf12Vx_Q?e=i5SLwg)
 
 -   **Class: CSCI 315** 
 -   **Grade: A**
 
-### [The Good Hacker](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/Assignment%206%20Ethics%20Paper%20Tyler.docx?d=w70232dcbfe52416890882ebf8aaf9994&csf=1&web=1&e=tJw5pipdf)
+### [The Good Hacker](https://csustudentnet-my.sharepoint.com/:w:/g/personal/kttyler_csustudent_net/EcstI3BS_mhBkIguv4qvmZQBXUB7_AivcO3dfT5Ut5m_FA?e=RaT1ND)
 
 -   **Class: CSCI 210** 
 -   **Grade: A**
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Target Credit Card Breach](https://csustudentnet-my.sharepoint.com/:p:/r/personal/kttyler_csustudent_net/Documents/project.pptx?d=w78c6bb54e77d4daf893c1ff0ae846a3d&csf=1&web=1&e=KorYof)
+### [Target Credit Card Breach](https://csustudentnet-my.sharepoint.com/:p:/g/personal/kttyler_csustudent_net/EVS7xnh9569NiTwf8K6Eaj0BTZ2VPfJSi2ZpSt24JAwUEA?e=ZriZcB)
 
 - **Class:CSCI 301** 
 - **Grade: A**
 
 
-### [Why Christians Should Study Computer Science](https://csustudentnet-my.sharepoint.com/:p:/r/personal/kttyler_csustudent_net/Documents/intro%20to%20comp%20sci.pptx?d=wbdb91b75e5a64f8288167b49942ac77b&csf=1&web=1&e=qD1i21)
+### [Why Christians Should Study Computer Science](https://csustudentnet-my.sharepoint.com/:p:/g/personal/kttyler_csustudent_net/EXUbub2m5YJPiBZ7SZQqx3sBaJbYXQNLK7SHkSdiCZBFIw?e=8YBopt)
 
 - **Class: CSCI 210** 
 - **Grade: A**
