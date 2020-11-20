@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Intellectual Property](https://csustudentnet-my.sharepoint.com/:w:/r/personal/kttyler_csustudent_net/Documents/ethics%20paper%20applied%20networkin.docx?d=we13ace9f5c414fadaf3dcadc5f4c9279&csf=1&web=1&e=9EaHE5)
+### [Intellectual Property](https://csustudentnet-my.sharepoint.com/:w:/g/personal/kttyler_csustudent_net/EZ_OOuFBXK1Prz3K3F9MknkB4itx-BF-Aqj_GAc6WeDOjw?e=7Fu9MP)
 
 -   **Class: CSCI 332**  
 -   **Grade: A**
